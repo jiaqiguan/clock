@@ -7,12 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A4A6F131AD7227300263B60 /* Unknown.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0A4A6F121AD7227300263B60 /* Unknown.jpeg */; };
+		0A4A6F151AD722A000263B60 /* IMG_7809.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0A4A6F141AD722A000263B60 /* IMG_7809.JPG */; };
+		0A5C68DF1AE6EB77009D26B9 /* unnamed.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5C68DE1AE6EB77009D26B9 /* unnamed.png */; };
+		0A5C68E11AE6EB7B009D26B9 /* unnamed-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5C68E01AE6EB7B009D26B9 /* unnamed-1.png */; };
 		0ABC21461AA506C90077C5AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABC21451AA506C90077C5AF /* AppDelegate.swift */; };
 		0ABC21481AA506C90077C5AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABC21471AA506C90077C5AF /* ViewController.swift */; };
 		0ABC214B1AA506C90077C5AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ABC21491AA506C90077C5AF /* Main.storyboard */; };
 		0ABC214D1AA506C90077C5AF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ABC214C1AA506C90077C5AF /* Images.xcassets */; };
 		0ABC21501AA506C90077C5AF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0ABC214E1AA506C90077C5AF /* LaunchScreen.xib */; };
 		0ABC215C1AA506C90077C5AF /* alarmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABC215B1AA506C90077C5AF /* alarmTests.swift */; };
+		0AE2A5F91ADF0285006A44E9 /* IMG_7813.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0AE2A5F81ADF0285006A44E9 /* IMG_7813.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +31,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A4A6F121AD7227300263B60 /* Unknown.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Unknown.jpeg; path = ../../Unknown.jpeg; sourceTree = "<group>"; };
+		0A4A6F141AD722A000263B60 /* IMG_7809.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_7809.JPG; path = ../../IMG_7809.JPG; sourceTree = "<group>"; };
+		0A5C68DE1AE6EB77009D26B9 /* unnamed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = unnamed.png; path = ../../unnamed.png; sourceTree = "<group>"; };
+		0A5C68E01AE6EB7B009D26B9 /* unnamed-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "unnamed-1.png"; path = "../../unnamed-1.png"; sourceTree = "<group>"; };
 		0ABC21401AA506C90077C5AF /* alarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = alarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ABC21441AA506C90077C5AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0ABC21451AA506C90077C5AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +45,7 @@
 		0ABC21551AA506C90077C5AF /* alarmTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = alarmTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ABC215A1AA506C90077C5AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0ABC215B1AA506C90077C5AF /* alarmTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alarmTests.swift; sourceTree = "<group>"; };
+		0AE2A5F81ADF0285006A44E9 /* IMG_7813.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_7813.PNG; path = ../../IMG_7813.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +87,11 @@
 		0ABC21421AA506C90077C5AF /* alarm */ = {
 			isa = PBXGroup;
 			children = (
+				0A5C68E01AE6EB7B009D26B9 /* unnamed-1.png */,
+				0A5C68DE1AE6EB77009D26B9 /* unnamed.png */,
+				0AE2A5F81ADF0285006A44E9 /* IMG_7813.PNG */,
+				0A4A6F141AD722A000263B60 /* IMG_7809.JPG */,
+				0A4A6F121AD7227300263B60 /* Unknown.jpeg */,
 				0ABC21451AA506C90077C5AF /* AppDelegate.swift */,
 				0ABC21471AA506C90077C5AF /* ViewController.swift */,
 				0ABC21491AA506C90077C5AF /* Main.storyboard */,
@@ -192,8 +207,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A4A6F131AD7227300263B60 /* Unknown.jpeg in Resources */,
+				0A4A6F151AD722A000263B60 /* IMG_7809.JPG in Resources */,
+				0AE2A5F91ADF0285006A44E9 /* IMG_7813.PNG in Resources */,
 				0ABC214B1AA506C90077C5AF /* Main.storyboard in Resources */,
 				0ABC21501AA506C90077C5AF /* LaunchScreen.xib in Resources */,
+				0A5C68E11AE6EB7B009D26B9 /* unnamed-1.png in Resources */,
+				0A5C68DF1AE6EB77009D26B9 /* unnamed.png in Resources */,
 				0ABC214D1AA506C90077C5AF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +427,7 @@
 				0ABC21611AA506C90077C5AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ABC21621AA506C90077C5AF /* Build configuration list for PBXNativeTarget "alarmTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +436,7 @@
 				0ABC21641AA506C90077C5AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
